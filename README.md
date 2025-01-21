@@ -1,2 +1,3 @@
 # leet_code
-daily_challenges
+
+daily challenges repo for all completed leet code problems
